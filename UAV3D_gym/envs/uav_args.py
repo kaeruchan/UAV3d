@@ -17,3 +17,4 @@ POS_FIXED = False
 
 N_AGENTS = 1
 N_TARGETS = 1
+
